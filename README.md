@@ -9,7 +9,7 @@ NBA_OS es una shell interactiva personalizada para los fanáticos del baloncesto
 Puedes instalarlas con los siguientes comandos en distribuciones basadas en Debian/Ubuntu:
 
 sudo apt update
-sudo apt install figlet lolcat bastet nodejs npm -y
+sudo apt install figlet lolcat bastet -y
 ## 🚀 Instalación
 Clona este repositorio:
 
